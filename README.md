@@ -12,5 +12,6 @@ Los producto, aunque en mi primera investigación no se ha analizado, viene cata
 
 Se añade esquema grafico de la relaciones de tablas en un archivo externo: chart.svg
 Tambien se añade la estructuras de la tablas en formato textual (tablas, columnas, tipologia, etc.): chart.md
- 
+
+En el archivo SQL_Tienda_Preguntas.sql se incluye las varias preguntas y código de consulta SQL, ademas de una pequena presentación.
  
