@@ -11,6 +11,7 @@ Las tablas son relacionadas entre si a traves de ID específicos, en el caso de 
 Los producto, aunque en mi primera investigación no se ha analizado, viene catalogado por Familias, ese punto tambien pudiera ser interessante examinar para ver cual son la categoria que mas se venden.
 
 Se añade esquema grafico de la relaciones de tablas en un archivo externo: chart.svg
+![](https://github.com/Xicu980/SQL_01/blob/main/chart.svg)
 Tambien se añade la estructuras de la tablas en formato textual (tablas, columnas, tipologia, etc.): chart.md
 
 En el archivo SQL_Tienda_Preguntas.sql se incluye las varias preguntas y código de consulta SQL, ademas de una pequena presentación.
